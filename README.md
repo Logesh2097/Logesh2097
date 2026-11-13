@@ -72,7 +72,6 @@ Small projects from when I was learning Python web and desktop development, sinc
 
 | Project | What it is | Built with |
 |---|---|---|
-| [weather_detector](https://github.com/Logesh2097/weather_detector) | Current weather for a city from the OpenWeatherMap API | Django |
 | [Location_project](https://github.com/Logesh2097/Location_project) | Approximate location of the visitor's IP address | Django, requests |
 | [Graphical_login-reg](https://github.com/Logesh2097/Graphical_login-reg) | Desktop login and registration with hashed passwords | Tkinter |
 | [Password_strengthchecker](https://github.com/Logesh2097/Password_strengthchecker) | Password strength rules behind a web form | Python CGI |
