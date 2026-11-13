@@ -75,7 +75,6 @@ Small projects from when I was learning Python web and desktop development, sinc
 | [Location_project](https://github.com/Logesh2097/Location_project) | Approximate location of the visitor's IP address | Django, requests |
 | [Graphical_login-reg](https://github.com/Logesh2097/Graphical_login-reg) | Desktop login and registration with hashed passwords | Tkinter |
 | [Password_strengthchecker](https://github.com/Logesh2097/Password_strengthchecker) | Password strength rules behind a web form | Python CGI |
-| [Authentication_cgi](https://github.com/Logesh2097/Authentication_cgi) | Username and password check behind a web form | Python CGI |
 | [Game_guessingnos](https://github.com/Logesh2097/Game_guessingnos) | Number-guessing desktop game | Tkinter |
 
 ## GitHub activity
