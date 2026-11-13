@@ -1,6 +1,6 @@
 # Logeswaran
 
-**Full Stack AI Engineer · GenAI Engineer**
+**GenAI Engineer · Full Stack AI Engineer**
 
 I build web applications end to end and put large language models to work inside them: question-to-SQL, retrieval over documents, and multi-agent workflows that stay inside the guard rails a business needs — tenant isolation, read-only data access, and numbers computed by code rather than by the model.
 
