@@ -9,10 +9,12 @@ I build web applications end to end and put large language models to work inside
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 
 **Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
@@ -25,15 +27,24 @@ I build web applications end to end and put large language models to work inside
 ![RAG](https://img.shields.io/badge/RAG-444444)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-444444)
 ![Embeddings](https://img.shields.io/badge/Embeddings-444444)
+![Tokenization](https://img.shields.io/badge/Tokenization-444444)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-444444)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-444444)
+![AI Automation](https://img.shields.io/badge/AI_Automation-444444)
 
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firebase_Firestore-DD2C00?logo=firebase&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+
+**Cloud**
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?logo=googlecloud&logoColor=white)
 
 **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=black)
